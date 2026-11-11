@@ -62,7 +62,8 @@ sudo python3 alazraqi.py
 
 ---
 
-🛡️ **AL-AZRAQI v3.3 – Shadow Interface Edition**
+🛡️ **AL-AZRAQI v4.0 – Shadow Interface Edition**
 
 
 *مشروع تجريبي، والتطوير مستمر... القادم أفضل.*
+
